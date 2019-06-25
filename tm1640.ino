@@ -1,3 +1,6 @@
+//© Developed By:Porya Gohary (Email: gohary@ce.sharif.edu)
+// {PORYA-GOHARY.IR}
+
 int Tm1640_clk = 2; 
 int Tm1640_dout = 3;   
 int Tm1640_din = 4;     
